@@ -1,0 +1,83 @@
+.bgimg{
+    height: 100;
+    width: 100;
+    background-image: url('../cap.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;                           
+    
+}
+.hearderset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+
+.hearderset h2{
+    font-size: 42px;
+
+}
+
+.hearderset h1{
+    font-size: 72px;
+    font-weight: bold;
+
+}
+
+/*...............ourservices.............*/
+.ourservices{
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.rowsetting{
+    margin: 80px 0px !important;
+}
+.imgsetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.fa-cart-arrow-down{
+    margin-top: 20px;
+}
+.fa-desktop{
+    margin-top: 24px;
+}
+
+.fa-lock{
+    margin-top: 25px;
+}
+
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.rowsetting p{
+    padding: 10px;
+    color: #212529;
+}
+
+/* ////////////////PORTFOLIO//////////////// */
+    
+
+.portfolio{
+    height: 1100px;
+    width: 100px;
+    padding: 100px 0px 50px;
+
+}
+.portfolio h1{ 
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card{
+    margin-top: 40px;
+}
